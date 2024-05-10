@@ -13,7 +13,7 @@ O projeto consiste em um script Python que utiliza as bibliotecas requests e Bea
 
 ## Como Utilizar
 
-### 1. Clone o repositório do GitHub
+1. Clone o repositório do GitHub
 
 ```bash
 git clone https://github.com/Andre023/WebScraping-Python.git
@@ -41,3 +41,6 @@ Certifique-se de estar em um ambiente com acesso à internet, pois o script faz 
 ## Aviso Legal
 
 Este projeto é apenas para fins educacionais. O scraping de conteúdo de websites deve ser feito com responsabilidade, respeitando os termos de serviço dos sites e evitando sobrecarga desnecessária nos servidores.
+
+## Autores
+André Santos e Júlia Gomes
