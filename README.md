@@ -13,7 +13,7 @@ O projeto consiste em um script Python que utiliza as bibliotecas requests e Bea
 
 ## Como Utilizar
 
-1. Clone o repositório do GitHub
+### 1. Clone o repositório do GitHub
 
 ```bash
 git clone https://github.com/Andre023/WebScraping-Python.git
